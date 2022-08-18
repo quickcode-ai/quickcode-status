@@ -11,7 +11,7 @@ sites:
     url: https://qc.quickcode.ai
   - name: Test Broken Site to see if Quickcode/Slack integration is working
     slug: testBrokenPage
-    url: https://thissitedoesnotexist.koj.co
+    url: https://quickcode.ai
 
 assignees:
   - ross-nordstrom
