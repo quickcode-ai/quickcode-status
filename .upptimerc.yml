@@ -4,10 +4,13 @@ repo: quickcode-status # The name of this repository
 
 sites:
   - name: Quickcode Homepage
+    slug: quickcodeHomepage
     url: https://quickcode.ai
   - name: Quickcode Product
+    slug: quickcodeProduct
     url: https://qc.quickcode.ai
   - name: Test Broken Site to see if Quickcode/Slack integration is working
+    slug: testBrokenPage
     url: https://thissitedoesnotexist.koj.co
 
 assignees:
