@@ -14,7 +14,7 @@ assignees:
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
-  baseUrl: /quickcode-ai/quickcode-status
+  baseUrl: /quickcode-status
   favicon: https://qc.quickcode.ai/favicon.ico
   logoUrl: https://qc.quickcode.ai/assets/images/logo-color.png
   name: Quickcode Status
