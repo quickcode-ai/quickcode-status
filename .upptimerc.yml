@@ -23,7 +23,7 @@ status-website:
   name: Quickcode Status
   introTitle: "**Quickcode:** Machine learning automation for unstructured text, empowering human experts"
   introMessage: This page monitors the availability and health of Quickcode services.
-  theme: ocean
+  theme: light
   navbar:
     - title: Status
       href: /quickcode-status
