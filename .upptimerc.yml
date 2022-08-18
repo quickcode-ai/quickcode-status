@@ -23,7 +23,7 @@ status-website:
   theme: night
   navbar:
     - title: Status
-      href: /
+      href: /quickcode-status
     - title: Quickcode
       href: https://quickcode.ai
     - title: Sign In
