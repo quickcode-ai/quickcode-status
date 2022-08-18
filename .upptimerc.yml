@@ -4,19 +4,19 @@ repo: quickcode-status # The name of this repository
 
 sites:
   - name: Quickcode Homepage
-    slug: quickcodeHomepage
+    slug: quickcode-homepage
     url: https://quickcode.ai
   - name: Quickcode Product
-    slug: quickcodeProduct
+    slug: quickcode-product
     url: https://qc.quickcode.ai
   - name: Quickcode Auth
-    slug: quickcodeAuth
+    slug: quickcode-auth
     url: https://qc.quickcode.ai/auth/
   # - name: Quickcode API
-  #   slug: quickcodeApi
+  #   slug: quickcode-api
   #   url: https://qc.quickcode.ai/api/v2/version
   # - name: Quickcode Services
-  #   slug: quickcodeServices
+  #   slug: quickcode-services
   #   url: https://qc.quickcode.ai/health
 
 assignees:
