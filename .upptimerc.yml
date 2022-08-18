@@ -16,7 +16,8 @@ status-website:
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   baseUrl: /quickcode-status
   favicon: https://qc.quickcode.ai/favicon.ico
-  logoUrl: https://qc.quickcode.ai/assets/images/logo-color.png
+  # logoUrl: https://qc.quickcode.ai/assets/images/logo-color.png
+  logoUrl: https://qc.quickcode.ai/assets/images/logo-square.png
   name: Quickcode Status
   introTitle: "**Quickcode:** Machine learning automation for unstructured text, empowering human experts"
   introMessage: This page monitors the availability and health of Quickcode services.
