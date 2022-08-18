@@ -7,6 +7,8 @@ sites:
     url: https://quickcode.ai
   - name: Quickcode Product
     url: https://qc.quickcode.ai
+  - name: Test Broken Site to see if Quickcode/Slack integration is working
+    url: https://thissitedoesnotexist.koj.co
 
 assignees:
   - quickcode-ai/devs
