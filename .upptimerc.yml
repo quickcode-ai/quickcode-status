@@ -14,7 +14,10 @@ sites:
     url: https://thissitedoesnotexist.koj.co
 
 assignees:
-  - quickcode-ai/devs
+  - ross-nordstrom
+  - jmorales4
+  - danbox
+  - EMCrafferty
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
