@@ -12,12 +12,12 @@ sites:
   - name: Quickcode Auth
     slug: quickcodeAuth
     url: https://qc.quickcode.ai/auth/
-  - name: Quickcode API
-    slug: quickcodeApi
-    url: https://qc.quickcode.ai/api/v2/version
-  - name: Quickcode Services
-    slug: quickcodeServices
-    url: https://qc.quickcode.ai/healt
+  # - name: Quickcode API
+  #   slug: quickcodeApi
+  #   url: https://qc.quickcode.ai/api/v2/version
+  # - name: Quickcode Services
+  #   slug: quickcodeServices
+  #   url: https://qc.quickcode.ai/health
 
 assignees:
   - ross-nordstrom
