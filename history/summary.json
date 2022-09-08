@@ -4,7 +4,7 @@
     "url": "https://quickcode.ai",
     "icon": "https://favicons.githubusercontent.com/quickcode.ai",
     "slug": "quickcode-homepage",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -15,7 +15,9 @@
     "timeWeek": 1104,
     "timeMonth": 895,
     "timeYear": 895,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-09-08": 0
+    }
   },
   {
     "name": "Quickcode Product",
