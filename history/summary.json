@@ -5,19 +5,17 @@
     "icon": "https://favicons.githubusercontent.com/quickcode.ai",
     "slug": "quickcode-homepage",
     "status": "up",
-    "uptime": "99.97%",
-    "uptimeDay": "99.33%",
-    "uptimeWeek": "99.90%",
-    "uptimeMonth": "99.97%",
-    "uptimeYear": "99.97%",
-    "time": 883,
-    "timeDay": 998,
-    "timeWeek": 1033,
-    "timeMonth": 883,
-    "timeYear": 883,
-    "dailyMinutesDown": {
-      "2022-09-08": 10
-    }
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 879,
+    "timeDay": 656,
+    "timeWeek": 687,
+    "timeMonth": 879,
+    "timeYear": 879,
+    "dailyMinutesDown": {}
   },
   {
     "name": "Quickcode Product",
@@ -30,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.96%",
-    "time": 310,
-    "timeDay": 461,
-    "timeWeek": 242,
-    "timeMonth": 310,
-    "timeYear": 310,
+    "time": 305,
+    "timeDay": 185,
+    "timeWeek": 243,
+    "timeMonth": 305,
+    "timeYear": 305,
     "dailyMinutesDown": {
       "2022-08-27": 12
     }
@@ -50,11 +48,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.96%",
-    "time": 107,
-    "timeDay": 261,
-    "timeWeek": 104,
-    "timeMonth": 107,
-    "timeYear": 107,
+    "time": 104,
+    "timeDay": 20,
+    "timeWeek": 74,
+    "timeMonth": 104,
+    "timeYear": 104,
     "dailyMinutesDown": {
       "2022-08-27": 12
     }
