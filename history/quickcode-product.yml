@@ -1,7 +1,7 @@
 url: https://qc.quickcode.ai
-status: up
-code: 200
-responseTime: 184
-lastUpdated: 2023-03-23T23:04:57.170Z
+status: down
+code: 502
+responseTime: 253
+lastUpdated: 2023-03-24T18:45:57.701Z
 startTime: Thu Aug 18 2022 13:42:44 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
