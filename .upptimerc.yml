@@ -8,7 +8,7 @@ sites:
     url: https://quickcode.ai
   - name: Quickcode
     slug: quickcode-product
-    url: http://httpstat.us/500
+    url: https://hs.quickcode.ai
   - name: Quickcode Auth
     slug: quickcode-auth
     url: https://hs.quickcode.ai/auth/
