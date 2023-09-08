@@ -14,7 +14,7 @@ sites:
     url: https://hs.quickcode.ai/auth/
   - name: Quickcode Keycloak
     slug: quickcode-keycloak
-    url: https://test.quickcodehs.ai/auth/health/ready
+    url: https://hs.quickcode.ai/auth/health/ready
   - name: QCTC
     slug: qctc-product
     url: https://qc.quickcode.ai
