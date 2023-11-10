@@ -80,7 +80,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "62.39%",
+    "uptimeYear": "62.41%",
     "time": 115,
     "timeDay": 144,
     "timeWeek": 93,
@@ -253,10 +253,10 @@
     "url": "https://qc.quickcode.ai",
     "icon": "https://icons.duckduckgo.com/ip3/qc.quickcode.ai.ico",
     "slug": "qctc-product",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 338,
@@ -264,16 +264,18 @@
     "timeWeek": 410,
     "timeMonth": 361,
     "timeYear": 338,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-11-10": 1
+    }
   },
   {
     "name": "QCTC Auth",
     "url": "https://qc.quickcode.ai/auth/",
     "icon": "https://icons.duckduckgo.com/ip3/qc.quickcode.ai.ico",
     "slug": "qctc-auth",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -282,6 +284,8 @@
     "timeWeek": 241,
     "timeMonth": 168,
     "timeYear": 126,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-11-10": 0
+    }
   }
 ]
