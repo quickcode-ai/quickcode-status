@@ -1,7 +1,7 @@
 url: https://quickcode.ai
-status: up
-code: 200
-responseTime: 505
-lastUpdated: 2024-02-01T23:02:13.258Z
+status: down
+code: 503
+responseTime: 5264
+lastUpdated: 2024-02-02T17:22:22.555Z
 startTime: 2022-08-18T13:42:43.000Z
 generator: Upptime <https://github.com/upptime/upptime>
