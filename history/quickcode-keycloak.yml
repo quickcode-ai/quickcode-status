@@ -1,7 +1,7 @@
 url: https://hs.quickcode.ai/auth/health/ready
-status: up
-code: 200
-responseTime: 34
-lastUpdated: 2024-03-08T23:02:12.319Z
+status: down
+code: 503
+responseTime: 30
+lastUpdated: 2024-03-09T04:08:44.052Z
 startTime: 2023-09-08T19:50:13.662Z
 generator: Upptime <https://github.com/upptime/upptime>
